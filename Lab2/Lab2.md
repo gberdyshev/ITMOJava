@@ -1,2 +1,2 @@
 # Lab2
-! [UML] (https://imgur.com/a/tVHPLZd.png)
+![UML] (https://imgur.com/a/tVHPLZd.png)
