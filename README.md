@@ -1,2 +1,2 @@
 # ITMOJava
-Java labs
+Java labs in ITMO
